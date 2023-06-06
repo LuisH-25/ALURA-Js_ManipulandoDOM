@@ -14,3 +14,7 @@ document.querySelector("span").textContent="Aprendder"
 
 
 
+## Existen otros elementos
+insertBefore(padre, hijo): Coloca un nodo antes del otro
+replaceChild(elemento1, elemento2): Sustituye el nodo del elemento 1 por el nodo del elemento 2
+removeChild(elemento): Remueve un nodo del árbol
